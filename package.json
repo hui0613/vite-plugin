@@ -1,0 +1,14 @@
+{
+  "name": "vite-plugin",
+  "version": "1.0.0",
+  "author": "hui0613 <zhonghui324@gmail.com>",
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.14.192",
+    "@types/lodash-es": "^4.17.7",
+    "@types/node": "^18.15.11",
+    "typescript": "^5.0.3",
+    "vite": "^4.2.1"
+  }
+}
